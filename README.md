@@ -1,2 +1,2 @@
-# Angry-Birds-w-trajectory
-Made on VSC
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
